@@ -86,50 +86,55 @@ Tasks were divided evenly amongst group members over four sprints:
 
 ## Implementation/Results
 
-![Figure 1: Home page – includes seven tabs at the top](https://github.com/user-attachments/assets/eeb720d9-ce78-4479-8213-6e2c1f5b35b5)  
+<br>
+
+![home_page](https://github.com/user-attachments/assets/ac9b304e-fcc5-4117-b6a1-28879ed10a97)  
 **Figure 1:** Home page – includes seven tabs at the top
 
-<br>
+<br><br>
 
-![Figure 2: About tab](https://github.com/user-attachments/assets/03129cee-e517-4cef-a0a5-44e2bbb90b32)  
+![about_us](https://github.com/user-attachments/assets/86274614-e287-4e4f-82ba-09635e2c023f)  
 **Figure 2:** About tab
 
-<br>
+<br><br>
 
-![Figure 3: Languages tab (unsorted table)](https://github.com/user-attachments/assets/06474ffb-44de-4945-87ae-52cf1a784b2d)  
+![languages_tab](https://github.com/user-attachments/assets/eb5a6145-5886-4dc7-8d26-c9d283fe744f)  
 **Figure 3:** Languages tab (unsorted table)
 
-<br>
+<br><br>
 
-![Figure 4: Cities tab (unsorted table)](https://github.com/user-attachments/assets/461fb41a-199f-48e2-81ef-2eebd26baff0)  
+![cities_tab](https://github.com/user-attachments/assets/8baeb541-e370-4877-b4be-24879f048dcf)  
 **Figure 4:** Cities tab (unsorted table)
 
-<br>
+<br><br>
 
-![Figure 5: Countries tab](https://github.com/user-attachments/assets/2147a482-8457-483b-ab69-6655a723adf2)  
+![countries_tab](https://github.com/user-attachments/assets/08f432e4-4500-49e5-bc57-ce9c0c5408e0)  
 **Figure 5:** Countries tab
 
-<br>
+<br><br>
 
-![Figure 6: Reports tab](https://github.com/user-attachments/assets/7a5d89af-b23f-42c1-95ab-7b616a291d99)  
+![reports_tab](https://github.com/user-attachments/assets/8c89cf2e-5286-4596-9504-b52a4e2086bc)  
 **Figure 6:** Reports tab
 
-<br>
+<br><br>
 
-![Figure 7: Login page from Account tab](https://github.com/user-attachments/assets/a60006df-b0f0-415f-98a8-138af599c476)  
+![login_page](https://github.com/user-attachments/assets/a127e52a-4189-41e9-87d2-9f9396842c86)  
 **Figure 7:** Login page from Account tab
 
 ---
 
 ## Evaluation
 
-![Figure 8: Countries tab from Reports – sorted by highest to lowest population](https://github.com/user-attachments/assets/6d40adec-3953-4de4-afd9-6ceb299811ab)  
-**Figure 8:** Countries tab from Reports – sorted by highest to lowest population
-
 <br>
 
-![Figure 9: Cities tab from Reports – sorted by highest to lowest population](https://github.com/user-attachments/assets/e660505c-79fc-403d-acab-546df51628cb)  
+![countries_tab_sorted](https://github.com/user-attachments/assets/df920a7d-74de-481e-ab17-86659fa9e796)  
+**Figure 8:** Countries tab from Reports – sorted by highest to lowest population
+
+<br><br>
+
+![cities_tab_sorted](https://github.com/user-attachments/assets/f1964405-ca19-4a86-a6dd-2766611a97aa)  
 **Figure 9:** Cities tab from Reports – sorted by highest to lowest population
+
 
 
 
